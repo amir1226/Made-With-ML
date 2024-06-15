@@ -97,6 +97,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+ml_course_venv/
 
 # mkdocs
 site/
